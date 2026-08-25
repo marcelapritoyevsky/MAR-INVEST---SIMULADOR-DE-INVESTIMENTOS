@@ -1,6 +1,6 @@
 # MAR INVEST — Simulador de Investimentos
 
-![MAR INVEST — Simulador de Investimentos](MAR_INVEST_SIMULADOR DE INVESTIMENTOS.png)
+![MAR INVEST — Simulador de Investimentos](MAR_INVEST.png)
 
 O **MAR INVEST** é um simulador de investimentos desenvolvido em Excel com o objetivo de facilitar a visualização de quanto um investidor pode acumular ao longo do tempo a partir de um aporte mensal.
 
